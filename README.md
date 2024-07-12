@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wajahat Ali Hassan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan with versatile knowledge background. My aim is to improve lives through code.</h3>
 
-- 🔭 I’m currently working on my final year project **OptiRankerAi Website**
+- 🔭 I’m currently working on **AI Empowered Web Application Development**
 
-- 🌱 I’m currently learning **MERN, Machine Learning**
+- 🌱 I’m currently learning **Advance Web Development and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Development Project in which AI plays an important role**
 
